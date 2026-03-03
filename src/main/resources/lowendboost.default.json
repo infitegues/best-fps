@@ -1,0 +1,21 @@
+{
+  "applyOnStartup": true,
+
+  "video": {
+    "renderDistance": 8,
+    "simulationDistance": 6,
+    "graphicsMode": "FAST",
+    "clouds": "OFF",
+    "particles": "MINIMAL",
+    "entityDistanceScaling": 0.75,
+    "biomeBlendRadius": 0,
+    "mipmapLevels": 0,
+    "fpsLimit": 120,
+    "vsync": false
+  },
+
+  "gameplay": {
+    "reduceViewBob": true,
+    "disableTelemetry": true
+  }
+}
